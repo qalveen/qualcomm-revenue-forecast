@@ -22,7 +22,7 @@ An FP&A-style project analyzing Qualcomm (NASDAQ: QCOM) segment performance: gui
 2. **Actuals** – segment revenue and EBT by quarter
 3. **Guidance** – company guidance ranges and midpoints
 4. **Variance** – actual vs. guidance midpoint, $ and %
-5. **Drivers** – units × share × content (Handsets), run-rate ramp (Auto), growth (IoT), units × revenue/unit (QTL)
+5. **Drivers** – same-quarter YoY growth by stream (seasonality-preserving), EBT = revenue × margin
 6. **Forecast** – rolling 4–6 quarter projection, base/bull/bear
 7. **Checks** – totals tie to reported consolidated revenue
 
