@@ -1,1 +1,12 @@
 source_id,document,fiscal_period,publish_date,url,tables_used
+S1,Q1 FY2024 Earnings Release,FY24 Q1,2024-01-31,data/raw/earnings_releases/FY2024-Q1-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S2,Q2 FY2024 Earnings Release,FY24 Q2,2024-05-01,data/raw/earnings_releases/FY2024-Q2-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S3,Q3 FY2024 Earnings Release,FY24 Q3,2024-07-31,data/raw/earnings_releases/FY2024-Q3-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S4,Q4 FY2024 Earnings Release,FY24 Q4,2024-11-06,data/raw/earnings_releases/FY2024-Q4-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S5,Q1 FY2025 Earnings Release,FY25 Q1,2025-02-05,data/raw/earnings_releases/FY2025-Q1-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S6,Q2 FY2025 Earnings Release,FY25 Q2,2025-04-30,data/raw/earnings_releases/FY2025-Q2-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S7,Q3 FY2025 Earnings Release,FY25 Q3,2025-07-30,data/raw/earnings_releases/FY2025-Q3-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S8,Q4 FY2025 Earnings Release,FY25 Q4,2025-11-05,data/raw/earnings_releases/FY2025-Q4-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S9,Q1 FY2026 Earnings Release,FY26 Q1,2026-02-04,data/raw/earnings_releases/FY2026-Q1-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S10,Q2 FY2026 Earnings Release,FY26 Q2,2026-04-29,data/raw/earnings_releases/FY2026-Q2-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
+S11,Q3 FY2026 Earnings Release,FY26 Q3,2026-07-29,data/raw/earnings_releases/FY2026-Q3-earnings-release.pdf,Segment Results; QCT Revenue Streams; Current Guidance
