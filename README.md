@@ -44,3 +44,12 @@ All data comes from Qualcomm's public SEC filings (10-Q, 10-K) and investor rela
 
 ## Disclaimer
 This is an independent portfolio project built solely from public information. It is not affiliated with or endorsed by Qualcomm. It contains no internal or confidential data, and it is not investment advice.
+
+## FY26 Q4 Pre-Earnings Forecast (locked before release)
+| Scenario | QCT revenue | QTL revenue | Company guidance (QCT / QTL) |
+|---|---|---|---|
+| Base | $8.74B | $1.30B | $8.4B-$9.0B / $1.2B-$1.4B |
+| Bull | $9.19B | $1.40B | |
+| Bear | $8.21B | $1.21B | |
+
+Locked via git tag `fy26q4-forecast-lock`. Actual vs. forecast variance will be added after the release.
