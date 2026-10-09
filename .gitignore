@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Excel lock/temp files
+~$*
+*.tmp
+
+# Python
+.venv/
+__pycache__/
+.env
+
+# Tableau temp
+*.twbr
+tableau/*.tde
