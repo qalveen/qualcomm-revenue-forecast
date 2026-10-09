@@ -5,7 +5,7 @@ from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter as L
 from openpyxl.comments import Comment
 
-ROOT = "/home/claude/qualcomm-revenue-forecast"
+ROOT = "."
 OUT = f"{ROOT}/model/qcom_revenue_forecast_model.xlsx"
 
 # ---------- data ----------
