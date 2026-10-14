@@ -15,6 +15,8 @@ An FP&A-style analysis of Qualcomm (NASDAQ: QCOM) built entirely from public ear
 - **Not yet offsetting:** In the base case, Auto + IoT gains replace about 62% (FY26E) and 84% (FY27E) of lost handset revenue. Only the bull case fully offsets it.
 - **FY26 Q4 forecast (locked pre-earnings):** QCT $8.74B vs. company guidance of $8.4–9.0B.
 
+**Full write-up:** [Recommendation memo](docs/memo.md)
+
 ## FY26 Q4 Pre-Earnings Forecast
 | Scenario | QCT revenue | QTL revenue | Company guidance (QCT / QTL) |
 |---|---|---|---|
